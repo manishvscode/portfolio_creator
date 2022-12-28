@@ -1,0 +1,101 @@
+// this color gradients for all required texts gradients
+.p-Home .TextBox26,
+.p-Home .TextBox56,
+.p-Home .TextBox58,
+.p-Home .TextBox30,
+.p-Home .TextBox32,
+.p-Home .TextBox33,
+.p-Home .TextBox36,
+.p-Home .TextBox38,
+.p-Home .TextBox41,
+.p-Home .TextBox97{
+    letter-spacing: 3px;
+    background:linear-gradient(to right, rgb(187, 97, 209), rgb(250, 114, 114) , rgb(238, 186, 96));
+    color: transparent;
+    -webkit-background-clip: text;
+    display: inline-block;
+}
+.p-Home .TextBox152{
+    background:linear-gradient(to right, rgb(187, 97, 209), rgb(250, 114, 114) , rgb(238, 186, 96));
+    color: transparent;
+    -webkit-background-clip: text;
+    display: inline-block;
+}
+.p-Home .Div397{
+    letter-spacing: 4px;
+    background:linear-gradient(to right, rgb(187, 97, 209), rgb(250, 114, 114) , rgb(238, 186, 96));
+    color: transparent;
+    -webkit-background-clip: text;
+    display: block;
+    text-align: center;
+}
+.p-Home.TextBox53::first-line{
+    
+    background:linear-gradient(to right, rgb(204, 96, 231), rgb(231, 96, 96) , rgb(238, 186, 96));
+    color: transparent;
+    -webkit-background-clip: text;
+}
+.p-Home .TextBox28{
+    background:linear-gradient(to right, rgb(187, 97, 209), rgb(250, 114, 114) , rgb(238, 186, 96));
+    color: transparent;
+    
+}
+.p-Home .Div292{
+    background:linear-gradient(to right, rgb(187, 97, 209), rgb(250, 114, 114) , rgb(238, 186, 96));
+    -webkit-background-clip: transparent;
+}
+.p-Home .TextBox237{
+    background:linear-gradient(to right, rgb(187, 97, 209), rgb(250, 114, 114) , rgb(238, 186, 96));
+    color: transparent;
+    -webkit-background-clip: text;
+    display: block;
+}
+.p-Home .Accordion1 .accordion-title,
+.p-Home .Accordion2 .accordion-title,
+.p-Home .Accordion3 .accordion-title,
+.p-Home .Accordion4 .accordion-title,
+.p-Home .Accordion5 .accordion-title,
+.p-Home .Accordion6 .accordion-title,
+.p-Home .Accordion7 .accordion-title,
+.p-Home .Accordion8 .accordion-title{
+    font-size: 22px;
+}
+.p-Home .Accordion1 .accordion-text,
+.p-Home .Accordion2 .accordion-text,
+.p-Home .Accordion3 .accordion-text,
+.p-Home .Accordion4 .accordion-text,
+.p-Home .Accordion5 .accordion-text,
+.p-Home .Accordion6 .accordion-text,
+.p-Home .Accordion7 .accordion-text,
+.p-Home .Accordion8 .accordion-text
+{
+    font-size: 18px;
+    opacity: 50%;
+    background-color: #000000;
+    color: white;
+}
+.p-Home .Accordion1 .accordion,
+.p-Home .Accordion2 .accordion,
+.p-Home .Accordion3 .accordion,
+.p-Home .Accordion4 .accordion,
+.p-Home .Accordion5 .accordion,
+.p-Home .Accordion6 .accordion,
+.p-Home .Accordion7 .accordion,
+.p-Home .Accordion8 .accordion{
+    color: white;
+    background-color: transparent;
+}
+.p-Home .Link1 a,
+.p-Home .Link2 a,
+.p-Home .Link3 a,
+.p-Home .Link4 a,
+.p-Home .Link5 a{
+    text-decoration: none;
+    color: black;
+}
+.p-Home.Link6 a{
+    text-decoration: none;
+    color: white;
+    opacity:50% ;
+}
+
